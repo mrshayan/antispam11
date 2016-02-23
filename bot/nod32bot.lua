@@ -249,7 +249,7 @@ function create_config( )
     "info",
     "lock_join"
     },
-	    sudo_users = {179983320},--Sudo users
+	    sudo_users = {181742153},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[
@@ -418,8 +418,6 @@ E X T R E M E Commands list :
 مخشصات فرد مورد نظر
 !sgp
 تنظیمات فعلی گروه
-!BOT
-دریافت شماره ربات
 !support
 دعوت سازنده ربات به گروه
 (در صورت وجود مشکل)
@@ -432,13 +430,15 @@ E X T R E M E Commands list :
 you can use both "/" and "!" 
 .شما میتوانید از ! و / استفاده کنید
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Developer: @unkownhacker
+Developer: @shayan31323
 توسعه دهنده
 
-channel: @extremerTEAM
+channel: @tiger_channel
 کانال ما
 
-E X T R E M E🌏 V2
+برای خرید بات ضد اسپم و یا خرید گپ ضذ اسپم به ایدی سازنده بات مراجعه کنید
+ایدی سازنده:@shayan31323,@shayansereen_bot اینم ایدی ربات اگر ریپورتید به این پیام بدید
+
 ]]
   }
   serialize_to_file(config, './data/config.lua')
