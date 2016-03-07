@@ -222,7 +222,7 @@ function create_config( )
     "broadcast",
     "download_media",
     "invite",
-    "all",
+    "همه",
     "tooti",
     "echo",
     "text",
