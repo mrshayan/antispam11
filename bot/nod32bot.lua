@@ -232,6 +232,7 @@ function create_config( )
     "pok",
     "splugin",
     "filterorg",
+    "lock_username",
     "lock_english",
     "linkpv",
     "boobs",
